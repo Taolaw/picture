@@ -1,2 +1,1 @@
-# test
-first test
+This is my blog picture!
